@@ -1,4 +1,4 @@
-# aylon_frontend
+# aylon-mobile
 
 A new Flutter project.
 
